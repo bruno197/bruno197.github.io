@@ -39,8 +39,14 @@ input[type="submit"],.panel-body ul li a,.checkout-right-basket a,.additional_in
 }
 .w3l_logo{
 	float:left;
-	margin-left:22em;
+	margin-left:16em;
 }
+
+.w3l_logo a img{
+	width: 100%;
+	height: 100%;
+}
+
 .w3l_logo h1 a{
 	font-size:1.1em;
 	color:#212121;
@@ -127,10 +133,10 @@ label.icon-search {
 	visibility: hidden;
 }
 .search_box:checked~.search_form{
-    width: 500px;
+    width: 521px;
     height: 62px;
     padding: 10px;
-    top: 44px;
+    top: 95px;
 	transition: height 0.2s ease-out, top 0.2s ease-out, padding 0.2s ease-out, 0.3s width ease-out 0.2s;
 	-webkit-transition: height 0.2s ease-out, top 0.2s ease-out, padding 0.2s ease-out, 0.3s width ease-out 0.2s;
 }
@@ -296,7 +302,7 @@ ul.multi-column-dropdown h6 {
 /*-- //navigation --*/
 /*-- banner --*/
 .banner{
-	background:url(../images/b1.jpg) no-repeat 0px 0px;
+	background:url(../images/colours-fashion-banner-0ct.jpg) no-repeat 0px 0px;
 /*-- w3layouts --*/
 	background-size:cover;
 	-webkit-background-size:cover;
@@ -306,7 +312,7 @@ ul.multi-column-dropdown h6 {
 	min-height:700px;
 }
 .banner10{
-	background:url(../images/b1.jpg) no-repeat 0px 0px;
+	background:url(../images/colours-fashion-banner-0ct.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -2610,7 +2616,7 @@ td.invert-image a img {
 		font-size: 1.8em;
 	}
 	.banner h3 {
-		width: 40%;
+		width: 42%;
 	}
 	.banner h3 {
 		margin: 8em 0 0;
